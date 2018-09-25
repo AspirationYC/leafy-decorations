@@ -35,7 +35,6 @@ html {
   background-size: 50px auto;
   background-position: center center;
   border: 3px solid #2d5a4d;
-
 }
 
 .banner {
@@ -43,7 +42,6 @@ html {
   border-image-source: linear-gradient(to bottom, rgba(16, 52, 41, 0), #145b1d, rgba(16, 52, 41, .8));
   background-repeat: no-repeat;
   background-size: 100% 100%;
-  background-color: linea
   border-bottom: 3px solid #2d5a4d;
   padding-top: 100px;
 }
