@@ -30,23 +30,29 @@ html {
 .nav a:hover {
   color: #467366;
   background-color: #fff;
+  background-image: url("../images/leaf-icon.svg");
+  background-repeat: no-repeat;
+  background-size: 50px auto;
+  background-position: center center;
   border: 3px solid #2d5a4d;
 
 }
 
 .banner {
   background-image: url("../images/banner.jpg");
-
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  padding: 150px 0;
+  border-bottom: 3px solid #2d5a4d;
 }
 
 .banner-content {
   color: #fff;
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
-  background-size: 25% auto;
-  background-position: left bottom;
-
-
+  background-size: 100px auto;
+  background-position: top 10px;
+  padding: 125px 10px;
 }
 
 @media only screen and (min-width: 60em) {
