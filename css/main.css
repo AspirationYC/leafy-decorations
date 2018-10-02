@@ -50,8 +50,8 @@ html {
   background-image: url("../images/two-leaves.svg");
   background-repeat: no-repeat;
   background-size: 100px auto;
-  background-position: 10px 80px;
-  padding-top: 200px;
+  background-position: 10px 180px;
+  padding-top: 300px;
 }
 
 @media only screen and (min-width: 60em) {
